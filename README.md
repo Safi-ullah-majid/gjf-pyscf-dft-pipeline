@@ -10,7 +10,7 @@
 ![Colab](https://img.shields.io/badge/Google%20Colab-ready-yellow?logo=googlecolab)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-<img src="[pyscf.png](https://github.com/Safi-ullah-majid/gjf-pyscf-dft-pipeline/blob/delete-Safi-ullah-majid/molecular-docking-app-0-Bytes-0-collaborators/Pyscf.png)" alt="GJF to DFT optimization pipeline overview" width="700">
+<img src="<img src="Pyscf.png" alt="GJF to DFT optimization pipeline overview" width="700">">
 
 </div>
 
