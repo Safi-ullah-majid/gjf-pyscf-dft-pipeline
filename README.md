@@ -10,7 +10,7 @@
 ![Colab](https://img.shields.io/badge/Google%20Colab-ready-yellow?logo=googlecolab)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-<img src= "<img src="Pyscf.png" alt="GJF to DFT optimization pipeline overview" width="700">">
+<img src= "<img src="Pyscf.png" alt="GJF to DFT optimization pipeline overview" width="800">">
 
 </div>
 
