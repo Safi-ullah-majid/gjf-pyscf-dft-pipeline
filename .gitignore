@@ -1,0 +1,7 @@
+*.xyz
+*.chk
+*.log
+*.zip
+dft_workdir/
+__pycache__/
+*.pyc

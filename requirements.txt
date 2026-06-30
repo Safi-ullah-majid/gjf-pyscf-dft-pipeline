@@ -1,0 +1,3 @@
+pyscf
+geometric
+py3Dmol
