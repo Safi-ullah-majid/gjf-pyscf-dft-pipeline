@@ -50,4 +50,4 @@ python pipeline.py
 
 ## License
 
-MIT (or replace with your preferred license)
+MIT 
